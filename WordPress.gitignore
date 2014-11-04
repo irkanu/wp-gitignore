@@ -19,3 +19,7 @@ wp-includes/
 /readme.html
 /license.txt
 /.idea/
+node_modules
+bower_components
+.DS_Store
+Thumbs.db
