@@ -23,3 +23,7 @@ node_modules
 bower_components
 .DS_Store
 Thumbs.db
+/.settings/
+.dropbox
+.dropbox_cache
+.BridgeLabelsAndRatings
