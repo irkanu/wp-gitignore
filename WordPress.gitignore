@@ -21,6 +21,7 @@ wp-includes/
 /.idea/
 node_modules
 bower_components
+.sass-cache
 .DS_Store
 Thumbs.db
 /.settings/
